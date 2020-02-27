@@ -15,9 +15,8 @@ def print_first_directors_movie_titles
     puts movies_ar[movies_ar_index][:title]
     movies_ar_index += 1 
   end 
-end	end
+end
 
-# checking the result
 print_first_directors_movie_titles
 
 vm = [
